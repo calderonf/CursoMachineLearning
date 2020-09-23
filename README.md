@@ -1,4 +1,4 @@
-# CursoMachineLearning
+# Curso Machine Learning
 Repositorio Oficial del curso de Machine learning y del material que vamos a trabajar. 
 La lista de repruducción del curso en video se encuentra en :
 https://www.youtube.com/playlist?list=PLar_Hmbx3oKoK-xl8UZcW03hDTXJd5B9E
