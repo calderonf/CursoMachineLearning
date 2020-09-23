@@ -1,5 +1,5 @@
 # CursoMachineLearning
-Página Web del curso de Machine learning
+Voy a poner aquí desde ahora los videos del curso de Machine learning y el material que vamos a trabajar. 
 
 ## Semana 1
 Introducción al curso: https://web.microsoftstream.com/video/4b301efd-3e6c-4145-a1ee-9f311fbd94a4
