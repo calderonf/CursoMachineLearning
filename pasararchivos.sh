@@ -10,6 +10,11 @@ cp Semana_4/*.pdf CursoMachineLearning/Semana_4
 cp Semana_4/*.xlsx CursoMachineLearning/Semana_4
 
 cp Semana_5/*.pdf CursoMachineLearning/Semana_5
+cp Semana_5/*.csv CursoMachineLearning/Semana_5
+
+cp Semana_6/*.pdf CursoMachineLearning/Semana_6
+
+cp Semana_7/*.pdf CursoMachineLearning/Semana_7
 
 
 
