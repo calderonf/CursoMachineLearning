@@ -16,6 +16,20 @@ cp Semana_6/*.pdf CursoMachineLearning/Semana_6
 
 cp Semana_7/*.pdf CursoMachineLearning/Semana_7
 
+cp Semana_8/*.pdf CursoMachineLearning/Semana_8
+
+cp Semana_9/*.pdf CursoMachineLearning/Semana_9
+
+cp Semana_10/*.pdf CursoMachineLearning/Semana_10
+
+cp Semana_11/*.pdf CursoMachineLearning/Semana_11
+
+cp Semana_12/*.pdf CursoMachineLearning/Semana_12
+cp Semana_13/*.pdf CursoMachineLearning/Semana_13
+cp Semana_14/*.pdf CursoMachineLearning/Semana_14
+cp Semana_15/*.pdf CursoMachineLearning/Semana_15
+cp Semana_16/*.pdf CursoMachineLearning/Semana_16
+
 
 
 
