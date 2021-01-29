@@ -3,10 +3,29 @@ Repositorio Oficial del curso de Machine learning y del material que vamos a tra
 La lista de repruducción del curso en video se encuentra en :
 https://www.youtube.com/playlist?list=PLar_Hmbx3oKoK-xl8UZcW03hDTXJd5B9E
 
-## Semana 1
-Introducción al curso: https://web.microsoftstream.com/video/4b301efd-3e6c-4145-a1ee-9f311fbd94a4
+# Semana 1
 
-Definiciones y glosario del curso: https://web.microsoftstream.com/video/ccc7e6aa-a973-4213-89cf-612278d1e38c
+----------
+
+Introducción al curso (2021-1): primera clase (  [https://www.dropbox.com/sh/twsfovg8190qnli/AACkj20GL79Z4avsW29zZh_Pa?dl=0](https://www.dropbox.com/sh/twsfovg8190qnli/AACkj20GL79Z4avsW29zZh_Pa?dl=0 "https://www.dropbox.com/sh/twsfovg8190qnli/aackj20gl79z4avsw29zzh_pa?dl=0"))
+
+Ejemplo de uso de las herramientas a usar en el curso: Segunda clase ( [https://www.dropbox.com/sh/twsfovg8190qnli/AACkj20GL79Z4avsW29zZh_Pa?dl=0](https://www.dropbox.com/sh/twsfovg8190qnli/AACkj20GL79Z4avsW29zZh_Pa?dl=0 "https://www.dropbox.com/sh/twsfovg8190qnli/aackj20gl79z4avsw29zzh_pa?dl=0"))
+
+Definiciones y glosario del curso(2021-1):
+
+-   Acceder a un jupyter Notebook de manera gratuita:
+    -   [https://colab.research.google.com/](https://colab.research.google.com/ "https://colab.research.google.com/") ni idea que maquina den pero son bastante buenas ([https://colab.research.google.com/notebooks/gpu.ipynb](https://colab.research.google.com/notebooks/gpu.ipynb "https://colab.research.google.com/notebooks/gpu.ipynb")) va a ser la opción por defecto para este curso.
+    -   [https://notebooks.azure.com/](https://notebooks.azure.com/ "https://notebooks.azure.com/") (es necesario crear una cuenta, ustedes pueden hacerlo como estudiantes. el proceso no es trivial en mi opinion, pero tiene ventajas y es que es uno de los ambientes empresariales por defecto. )
+    -   [https://mybinder.org/](https://mybinder.org/ "https://mybinder.org/") dan 2 GB de ram no hay muchos detalles de la máquina
+    -   [https://www.kaggle.com/notebooks](https://www.kaggle.com/notebooks "https://www.kaggle.com/notebooks") ver en especial los kaggle kernels dan un cpu seguramente virtual de 4 núcleos y 17 GB de RAM
+    -   [https://cocalc.com/](https://cocalc.com/ "https://cocalc.com/") (personalmente no lo he probado, pero soporta un monton de lenguajes incluso terminales completas de linux y soporte a X11)
+    -   [https://datalore.jetbrains.com/](https://datalore.jetbrains.com/ "https://datalore.jetbrains.com/") tampoco lo he probado, pero dan una maquina gratis de 2 cores y 4GB de ram y 10 GB de HDD.
+    -   Hay varios reviews de estos servicios online por ejemplo:  [https://docs.google.com/spreadsheets/d/12thaaXg1Idr3iWST8QyASNDs08sjdPd6m9mbCGtHFn0/edit#gid=1505836451](https://docs.google.com/spreadsheets/d/12thaaXg1Idr3iWST8QyASNDs08sjdPd6m9mbCGtHFn0/edit#gid=1505836451 "https://docs.google.com/spreadsheets/d/12thaaxg1idr3iwst8qyasnds08sjdpd6m9mbcgthfn0/edit#gid=1505836451")
+-   TAREA NO ENTREGABLE: abrir por lo menos dos cuentas en las anteriores plataformas una en colab y otra en la plataforma de su elección.
+
+Introducción al curso (2020-3):  [https://web.microsoftstream.com/video/4b301efd-3e6c-4145-a1ee-9f311fbd94a4](https://web.microsoftstream.com/video/4b301efd-3e6c-4145-a1ee-9f311fbd94a4 "https://web.microsoftstream.com/video/4b301efd-3e6c-4145-a1ee-9f311fbd94a4")
+
+Definiciones y glosario del curso(2020-3):  [https://web.microsoftstream.com/video/ccc7e6aa-a973-4213-89cf-612278d1e38c](https://web.microsoftstream.com/video/ccc7e6aa-a973-4213-89cf-612278d1e38c "https://web.microsoftstream.com/video/ccc7e6aa-a973-4213-89cf-612278d1e38c")
 
 ## Semana 2
 Repaso de Probabilidad :https://www.youtube.com/watch?v=8tDOF1f2i8M
