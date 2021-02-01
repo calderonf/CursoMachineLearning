@@ -30,10 +30,14 @@ Definiciones y glosario del curso(2020-3):  [https://web.microsoftstream.com/vid
 ## Semana 2
 Repaso de Probabilidad :https://www.youtube.com/watch?v=8tDOF1f2i8M
 
+Link de taller en clase segunda semana: https://github.com/calderonf/CursoMachineLearning/blob/master/Codigo/Taller_en_clase_Intro_a_la_probabilidad_para_ML_estudiante.ipynb
+
 Preguntas e instalación de anaconda: https://web.microsoftstream.com/video/e08f6545-4415-4d2d-949a-f12f80946d24
 
-Introducción al python Lista de reproducción: 
+Introducción al python Lista de reproducción: 
 https://www.youtube.com/playlist?list=PLar_Hmbx3oKp40i8_mHnbiK_Nw-GVru5F
+
+Link de código de introducción a python: https://github.com/calderonf/CursoMachineLearning/blob/master/Codigo/Curso_Introduccion_al_python.ipynb
  
 ## Semana 3
 La descripción del taller la encuentran en el siguiente video: https://web.microsoftstream.com/video/8e0c7b4a-5994-4edb-9548-fbb780570da3.
