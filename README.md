@@ -61,11 +61,34 @@ https://www.dropbox.com/s/wa8vi54hyf048e2/SolucionDudas_AI_ClaseSemana4_2.mp4?dl
 Tercera parte regresión lineal: https://youtu.be/kiic4zuHDik
  
 ## Semana 5
-
 Cuarta parte regresión lineal: https://www.youtube.com/watch?v=t_U-cqpKmag
 
-Regresión logística:  https://www.youtube.com/watch?v=1aHT2sDftYM&feature=youtu.be
- 
+Clase_1_2021-1: https://www.dropbox.com/sh/gdy1kygn7o9ikod/AAA-Z0wTNOqkxib6e0F9ZUcDa?dl=0
+Clase_2_2021-2: https://www.dropbox.com/sh/108jx53iu6ulnsk/AACGtrN4QAgXA04lrU8CnYgda?dl=0
+
+Tarea:
+Averiguar qué es es el "coefficient of determination" 
+Intervalo de valores que toma y explicarlos. 
+Qué significa si da negativo o cero? puede pasar? antes de elevar por supuesto.
+Hallar el R cuadrado a nuestros datos de resistencia obtenidos a partir de una hipótesis lineal de 2 parámetros, cuanto les da!
+(opcional) Revisar paquetes de visualización:https://seaborn.pydata.org/tutorial/regression.html.
+(obligatorio ¯\_(ツ)_/¯ )Realizar por lo menos 3 regresiones para los datos de vacunación de Colombia. Suponga usted varias funciones de hipótesis, mida usando r^2, para diferentes funciones de hipótesis. (https://www.kaggle.com/gpreda/covid-world-vaccination-progress). Compare sus resultados. NOTA DE AYUDA: inicie con la regresión lineal, y después puede usar una polinomial de segundo y para terminar una de tercer orden.
+___________________________________
+Videos clase de dudas semana 5_2020-3:
+https://www.dropbox.com/s/ar3eynw6ibf0s6k/Grabaci%C3%B3n%20de%20pantalla%202020-09-04%20a%20la%28s%29%208.38.18%20a.%C2%A0m..mov?dl=0
+
+
+## Semana 6 
+Regresión logística: https://youtu.be/1aHT2sDftYM
+
+Tarea por definir (no la hagan todavía.):
+Implementar (adecuar) los dos métodos descritos en:
+https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html#id13 ​ Con los datos en el csv de clasificación en teams en la carpeta semana 6 .​ Puede descargar el código también en el github del autor, pero por favor leer primero el link de arriba. https://github.com/bfortuner/ml-glossary ​
+Correr el ejemplo multiclase al final de:​
+Encontrar la derivada de J para un theta cualquiera de la Regresión Logística. Usarla para confirmar las ecuaciones de descenso del gradiente en las presentaciones.
+NOTA: POR FAVOR SUBIR SOLAMENTE UN ARCHIVO PDF CON EL INFORME NO SE ACEPTAN .ZIP Y MENOS .RAR, UNICAMENTE UN PDF CON TODO, EL ULTIMO PUNTO PUEDE SER ESCANEADO DE UNA HOJA ESCRITA A MANO. 
+
+
 ## Semana 6
 
 K-Means, Parte 1: https://youtu.be/duCdeTh-4yc
